@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+=======
+>>>>>>> 9b57fba (first commit)
 from . import resnet
 
 
